@@ -1,0 +1,3 @@
+/Users/francescoarama/CLionProjects/prove/provagit/cmake-build-debug/CMakeFiles/provagit.dir
+/Users/francescoarama/CLionProjects/prove/provagit/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/francescoarama/CLionProjects/prove/provagit/cmake-build-debug/CMakeFiles/rebuild_cache.dir
