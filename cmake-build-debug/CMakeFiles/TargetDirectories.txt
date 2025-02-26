@@ -1,3 +1,7 @@
 /Users/francescoarama/CLionProjects/prove/provagit/cmake-build-debug/CMakeFiles/provagit.dir
+/Users/francescoarama/CLionProjects/prove/provagit/cmake-build-debug/CMakeFiles/secondo.dir
+/Users/francescoarama/CLionProjects/prove/provagit/cmake-build-debug/CMakeFiles/terzo.dir
+/Users/francescoarama/CLionProjects/prove/provagit/cmake-build-debug/CMakeFiles/quarto.dir
+/Users/francescoarama/CLionProjects/prove/provagit/cmake-build-debug/CMakeFiles/quinto.dir
 /Users/francescoarama/CLionProjects/prove/provagit/cmake-build-debug/CMakeFiles/edit_cache.dir
 /Users/francescoarama/CLionProjects/prove/provagit/cmake-build-debug/CMakeFiles/rebuild_cache.dir
