@@ -1,4 +1,4 @@
-/Users/francescoarama/CLionProjects/prove/provagit/cmake-build-debug/CMakeFiles/provagit.dir
+/Users/francescoarama/CLionProjects/prove/provagit/cmake-build-debug/CMakeFiles/primo.dir
 /Users/francescoarama/CLionProjects/prove/provagit/cmake-build-debug/CMakeFiles/secondo.dir
 /Users/francescoarama/CLionProjects/prove/provagit/cmake-build-debug/CMakeFiles/terzo.dir
 /Users/francescoarama/CLionProjects/prove/provagit/cmake-build-debug/CMakeFiles/quarto.dir

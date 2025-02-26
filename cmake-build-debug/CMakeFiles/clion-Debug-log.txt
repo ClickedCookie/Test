@@ -1,33 +1,4 @@
 /Applications/CLion.app/Contents/bin/cmake/mac/aarch64/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/Applications/CLion.app/Contents/bin/ninja/mac/aarch64/ninja -G Ninja -S /Users/francescoarama/CLionProjects/prove/provagit -B /Users/francescoarama/CLionProjects/prove/provagit/cmake-build-debug
--- Configuring done (0.0s)
-CMake Error at CMakeLists.txt:8 (add_executable):
-  Cannot find source file:
-
-    es13.cpp
-
-
-CMake Error at CMakeLists.txt:9 (add_executable):
-  Cannot find source file:
-
-    es14.cpp
-
-
-CMake Error at CMakeLists.txt:10 (add_executable):
-  Cannot find source file:
-
-    es15.cpp
-
-
-CMake Error at CMakeLists.txt:8 (add_executable):
-  No SOURCES given to target: terzo
-
-
-CMake Error at CMakeLists.txt:9 (add_executable):
-  No SOURCES given to target: quarto
-
-
-CMake Error at CMakeLists.txt:10 (add_executable):
-  No SOURCES given to target: quinto
-
-
-CMake Generate step failed.  Build files cannot be regenerated correctly.
+-- Configuring done (0.1s)
+-- Generating done (0.0s)
+-- Build files have been written to: /Users/francescoarama/CLionProjects/prove/provagit/cmake-build-debug

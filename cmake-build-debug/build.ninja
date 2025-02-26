@@ -41,35 +41,35 @@ include CMakeFiles/rules.ninja
 
 cmake_ninja_workdir = /Users/francescoarama/CLionProjects/prove/provagit/cmake-build-debug/
 # =============================================================================
-# Object build statements for EXECUTABLE target provagit
+# Object build statements for EXECUTABLE target primo
 
 
 #############################################
-# Order-only phony target for provagit
+# Order-only phony target for primo
 
-build cmake_object_order_depends_target_provagit: phony || .
+build cmake_object_order_depends_target_primo: phony || .
 
-build CMakeFiles/provagit.dir/es11.cpp.o: CXX_COMPILER__provagit_unscanned_Debug /Users/francescoarama/CLionProjects/prove/provagit/es11.cpp || cmake_object_order_depends_target_provagit
-  DEP_FILE = CMakeFiles/provagit.dir/es11.cpp.o.d
+build CMakeFiles/primo.dir/es11.cpp.o: CXX_COMPILER__primo_unscanned_Debug /Users/francescoarama/CLionProjects/prove/provagit/es11.cpp || cmake_object_order_depends_target_primo
+  DEP_FILE = CMakeFiles/primo.dir/es11.cpp.o.d
   FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -fcolor-diagnostics
-  OBJECT_DIR = CMakeFiles/provagit.dir
-  OBJECT_FILE_DIR = CMakeFiles/provagit.dir
+  OBJECT_DIR = CMakeFiles/primo.dir
+  OBJECT_FILE_DIR = CMakeFiles/primo.dir
 
 
 # =============================================================================
-# Link build statements for EXECUTABLE target provagit
+# Link build statements for EXECUTABLE target primo
 
 
 #############################################
-# Link the executable provagit
+# Link the executable primo
 
-build provagit: CXX_EXECUTABLE_LINKER__provagit_Debug CMakeFiles/provagit.dir/es11.cpp.o
+build primo: CXX_EXECUTABLE_LINKER__primo_Debug CMakeFiles/primo.dir/es11.cpp.o
   FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk
-  OBJECT_DIR = CMakeFiles/provagit.dir
+  OBJECT_DIR = CMakeFiles/primo.dir
   POST_BUILD = :
   PRE_LINK = :
-  TARGET_FILE = provagit
-  TARGET_PDB = provagit.dbg
+  TARGET_FILE = primo
+  TARGET_PDB = primo.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target secondo
@@ -229,7 +229,7 @@ build rebuild_cache: phony CMakeFiles/rebuild_cache.util
 #############################################
 # Folder: /Users/francescoarama/CLionProjects/prove/provagit/cmake-build-debug
 
-build all: phony provagit secondo terzo quarto quinto
+build all: phony primo secondo terzo quarto quinto
 
 # =============================================================================
 # Built-in targets
