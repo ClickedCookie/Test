@@ -1,0 +1,96 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.30"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "provagit",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "primo::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-primo-Debug-768a37ea2a498df5b15a.json",
+					"name" : "primo",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "quarto::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-quarto-Debug-efb90112d5870f943921.json",
+					"name" : "quarto",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "quinto::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-quinto-Debug-c8a7e2aae940386ed766.json",
+					"name" : "quinto",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "secondo::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-secondo-Debug-6b29a1c2fa46839b4cf5.json",
+					"name" : "secondo",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "terzo::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-terzo-Debug-ac541a31ebe882f1767b.json",
+					"name" : "terzo",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/francescoarama/CLionProjects/prove/provagit/cmake-build-debug",
+		"source" : "/Users/francescoarama/CLionProjects/prove/provagit"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
